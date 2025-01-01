@@ -1,5 +1,5 @@
 def ask_question():
-       print("ما هو لون السماء؟")
+    print("ما هو لون السماء؟")
        print("1. أزرق")
        print("2. رمادي")
        
