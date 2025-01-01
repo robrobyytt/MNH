@@ -12,7 +12,8 @@ def ask_questions():
             "options": ["1. Berlin", "2. Paris"],
             "correct_answer": "2"
         },
-        {
+        {  __name__ == "__main__
+         
             "question": "What is 2 + 2?",
             "options": ["1. 3", "2. 4"],
             "correct_answer": "2"
